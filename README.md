@@ -8,6 +8,10 @@ This package provides:
 - `RunPod`: For interacting with standard text-completion models.
 - `ChatRunPod`: For interacting with conversational chat models.
 
+<!-- runpod-agent-setup:start -->
+**For AI agents:** setup instructions for the Runpod skills and MCP server are at https://agents.runpod.io/
+<!-- runpod-agent-setup:end -->
+
 ## Installation
 
 ```bash
